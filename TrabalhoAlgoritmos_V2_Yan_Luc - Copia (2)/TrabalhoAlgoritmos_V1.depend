@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1686855513 source:d:\users\yan.silva\downloads\trabalhoalgoritmos_v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1688155763 source:c:\users\yanbd\onedrive - fund. univ. fed. de ciencias da saude de poa\documentos\lingc\trabalhoalgoritmos_v2_yan_luc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+

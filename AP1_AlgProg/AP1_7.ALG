@@ -1,0 +1,45 @@
+Algoritmo "AP1_7"
+// Disciplina  :  Algortimos e Programação
+// Professor   : Luciano Blomberg
+// Descrição   : Seleção de meses a partir de um número
+// Autor(a)    : Yan Braga da Silva
+// Data atual  : 24/04/2023
+Var
+   mes:inteiro
+
+
+Inicio
+   escreval ("Digite o valor correspondente ao mês (de 1 a 12): " )
+   leia (mes)
+   escolha mes
+   caso =1
+      escreva("Janeiro")
+   caso =2
+      escreva("Fevereiro")
+   caso =3
+      escreva("Março")
+   caso =4
+      escreva("Abril")
+   caso =5
+      escreva("Maio")
+   caso =6
+      escreva("Junho")
+   caso =7
+      escreva("Julho")
+   caso =8
+      escreva("Agosto")
+   caso =9
+      escreva("Setembro")
+   caso =10
+      escreva("Outubro")
+   caso =11
+      escreva("Novembro")
+   caso =12
+      escreva("Dezembro")
+   outrocaso
+      escreva ("Mês inválido")
+   fimescolha
+
+
+
+Fimalgoritmo

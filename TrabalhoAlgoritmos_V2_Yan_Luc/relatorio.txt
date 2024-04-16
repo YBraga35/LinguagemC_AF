@@ -1,0 +1,6 @@
+1010;Yan Braga;95.00;10.00;8.00;4.00;6.40;Reprovado(a)
+1011;Yacana Isis;85.00;9.00;6.00;8.00;7.60;Aprovado(a)
+1010;Yan Braga;95.00;10.00;8.00;4.00;6.40;Reprovado(a)
+1011;Yacana Isis;85.00;9.00;6.00;8.00;7.60;Aprovado(a)
+1012;Luisa F;75.00;6.00;8.00;7.00;7.10;Aprovado(a)
+1013;Luciana M;75.00;6.00;9.00;10.00;8.90;Aprovado(a)

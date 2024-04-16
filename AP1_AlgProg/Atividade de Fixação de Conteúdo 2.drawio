@@ -1,0 +1,84 @@
+<mxfile host="app.diagrams.net" modified="2023-04-15T18:00:47.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="MyNhva6fNxD8-XrkL-uU" version="21.1.8" type="device" pages="2">
+  <diagram name="Página-1" id="93WGjgf_zxtbfNeHQoNu">
+    <mxGraphModel dx="724" dy="427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t5s-QyQ06hVhIrdV7Esv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t5s-QyQ06hVhIrdV7Esv-1" target="t5s-QyQ06hVhIrdV7Esv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t5s-QyQ06hVhIrdV7Esv-1" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="376" y="10" width="76" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="t5s-QyQ06hVhIrdV7Esv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.53;entryY=0.21;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="t5s-QyQ06hVhIrdV7Esv-2" target="t5s-QyQ06hVhIrdV7Esv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t5s-QyQ06hVhIrdV7Esv-2" value="&quot;Escreva uma temperatura em ºF para ser convertida: &quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="346" y="100" width="136" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="t5s-QyQ06hVhIrdV7Esv-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t5s-QyQ06hVhIrdV7Esv-4" target="t5s-QyQ06hVhIrdV7Esv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t5s-QyQ06hVhIrdV7Esv-4" value="tempF" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="364" y="220" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t5s-QyQ06hVhIrdV7Esv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t5s-QyQ06hVhIrdV7Esv-5" target="t5s-QyQ06hVhIrdV7Esv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t5s-QyQ06hVhIrdV7Esv-5" value="tempC &amp;lt;- (tempF - 32) x 5/9" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="364" y="310" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="t5s-QyQ06hVhIrdV7Esv-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t5s-QyQ06hVhIrdV7Esv-10" target="t5s-QyQ06hVhIrdV7Esv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t5s-QyQ06hVhIrdV7Esv-10" value="&quot;A temperatura convertida é:&quot;, tempC &quot;ºC&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="346" y="440" width="136" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="t5s-QyQ06hVhIrdV7Esv-12" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="560" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cGBj01iSbpvGmBM7PDSa" name="Página-2">
+    <mxGraphModel dx="875" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UO3GHgqUFr7YpdkYLXZK-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UO3GHgqUFr7YpdkYLXZK-1" target="UO3GHgqUFr7YpdkYLXZK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UO3GHgqUFr7YpdkYLXZK-1" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="379" y="30" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UO3GHgqUFr7YpdkYLXZK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UO3GHgqUFr7YpdkYLXZK-3" target="UO3GHgqUFr7YpdkYLXZK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UO3GHgqUFr7YpdkYLXZK-3" value="&lt;br&gt;nome, numV, totalV" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="359" y="220" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UO3GHgqUFr7YpdkYLXZK-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UO3GHgqUFr7YpdkYLXZK-4" target="UO3GHgqUFr7YpdkYLXZK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UO3GHgqUFr7YpdkYLXZK-4" value="sal &amp;lt;- 700 + 80*numV + totalV*0.04" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="344" y="310" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UO3GHgqUFr7YpdkYLXZK-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UO3GHgqUFr7YpdkYLXZK-6" target="UO3GHgqUFr7YpdkYLXZK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UO3GHgqUFr7YpdkYLXZK-6" value="&quot;Seu salário&quot;, nome &quot;, depois de ser calculado é: R$&quot;, sal" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="338" y="440" width="152" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UO3GHgqUFr7YpdkYLXZK-8" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="560" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UO3GHgqUFr7YpdkYLXZK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.503;entryY=0.239;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UO3GHgqUFr7YpdkYLXZK-10" target="UO3GHgqUFr7YpdkYLXZK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UO3GHgqUFr7YpdkYLXZK-10" value="&amp;nbsp; &amp;nbsp;&quot;Insira seu nome, número de vendas realizadas e valor total das vendas em reais: &quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="314" y="120" width="200" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
