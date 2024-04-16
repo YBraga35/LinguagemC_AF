@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684102331 source:c:\users\yanbd\onedrive - fund. univ. fed. de ciencias da saude de poa\documentos\lingc\afc_4.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
